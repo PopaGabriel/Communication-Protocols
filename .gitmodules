@@ -1,0 +1,9 @@
+[submodule "HTTP-CLIENT-BOOKSTORE"]
+	path = HTTP-CLIENT-BOOKSTORE
+	url = https://github.com/PopaGabriel/TEma3_PC
+[submodule "ARP-ICMP-protocol"]
+	path = ARP-ICMP-protocol
+	url = https://github.com/PopaGabriel/ARP-ICMP-protocol-implementation
+[submodule "UDP-TCP-Protocol"]
+	path = UDP-TCP-Protocol
+	url = https://github.com/PopaGabriel/UDP-TCP-Protocols
